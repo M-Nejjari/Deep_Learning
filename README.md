@@ -3,7 +3,7 @@
 Ce dépôt contient le projet d'évaluation finale pour le module de **Deep Learning** du Master Data & AI à l'EMSI Casablanca (année universitaire 2025-2026). Ce projet individuel est composé de trois parties distinctes couvrant les architectures MLP, CNN et RNN/Seq2Seq, d'un fichier lisez-moi et d'un rapport de synthèse.
 
 ## Auteur
-* [Nom de l'Étudiant] — Master Data & AI, EMSI Casablanca
+* Nejjari Mohamed — Master Data & AI, EMSI Casablanca
 
 ## Description du Projet
 Ce projet applique les principes fondamentaux du Deep Learning avec PyTorch sur trois familles de données de natures statistiques différentes :
